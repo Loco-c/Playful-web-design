@@ -1,0 +1,30 @@
+body {
+  background-color: azure;
+}
+.navi {
+  background-color: blue;
+  overflow: hidden;
+}
+.navi a {
+  float: left;
+  color: azure;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17;
+}
+.navi a:hover {
+  background-color: aqua;
+  color: black;
+}
+.navi input[type="text"] {
+  float: right;
+  padding: 8px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 14px;
+  font-size: 12px;
+}
+h1 {
+  color: aqua;
+}
